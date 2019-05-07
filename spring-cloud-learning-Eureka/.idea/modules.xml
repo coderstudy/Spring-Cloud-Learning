@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-learning-Eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-learning-Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-learning-eureka-client/spring-cloud-learning-eureka-client.iml" filepath="$PROJECT_DIR$/spring-cloud-learning-eureka-client/spring-cloud-learning-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-learning-eureka-server/spring-cloud-learning-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-learning-eureka-server/spring-cloud-learning-eureka-server.iml" />
+    </modules>
+  </component>
+</project>
